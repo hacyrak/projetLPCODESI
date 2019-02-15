@@ -1,5 +1,5 @@
 package projetLPCODESI;
 
-public class classe3 {
+public class Classe3 {
 
 }
